@@ -1,5 +1,4 @@
-# Predicci-n-de-Incumplimiento-de-Pago
-Predicción de Incumplimiento de Pago de Tarjeta de Crédito
+# Predicción de Incumplimiento de Pago de Tarjeta de Crédito
 
 
 Dataset: kaagle ()incluido.
